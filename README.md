@@ -11,6 +11,7 @@ I'm an Information Technology student at Xavier University – Ateneo de Cagayan
 - 🚀 Long-term goal: build and deploy my own applications and startup ideas
 - 📫 How to reach me: `<20220025672@my.xu.edu.ph>`
 - ⚡ Fun fact: Linus Torvalds is basically my tech god
+- ⚡ Fun fact: Currently Reading "Just for Fun" by Linus Torvalds
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,supabase,linux,vscode)](https://skillicons.dev)
